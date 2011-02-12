@@ -1,0 +1,7 @@
+<MetaData> 
+<Gamerules MP1="InstantAction" MP2="PowerStruggle"/> 
+<LoadingScreens screen1="lala_Loading.dds"/> 
+<HeaderText text="Downfall"/> 
+<DescriptionText text="The downfall of us all"/> 
+<Display Name="Downfall"/> 
+</MetaData> 

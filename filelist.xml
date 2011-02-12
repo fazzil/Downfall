@@ -1,0 +1,6 @@
+<download name="neu" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="18863998" md5="03468a63a6bafeafc0971063d8ae2d9d"/>
+ </files>
+</download>
